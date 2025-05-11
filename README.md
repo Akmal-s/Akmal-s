@@ -1,21 +1,23 @@
-<h1 align="center" style="font-size: 4em; font-weight: bold;">Akmal S</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akmal+S.;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
 <h3 align="center">Data Analyst | SQL, Python, Power BI, Excel, Tableau | Turning raw data into value</h3>
+ 
+  
   <div style="flex-shrink: 0; margin-left: -50px;">
-    <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+    <img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
   </div>
 </div>
--
--
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 1; padding-right: 20px;">
-    <ul style="list-style: none; padding-left: 0; font-size: 2.8em; font-weight: bold;">
-      <li>🌱 I’m currently learning <span style="color: #007acc;">Matplotlib</span></li>
-      <li>💬 Ask me about Power BI, SQL, Python</li>
-      <li>📫 How to reach me: Akmal.s.analytics@gmail.com</li>
-      <li>⚡ Fun fact: I adapt to new skills easily.</li>
-    </ul>
-  </div>
+Welcome to my GitHub! I'm a detail-oriented and passionate data analyst with a solid foundation in SQL, Power BI, Tableau, Excel, and Python. With hands-on experience from real-time projects and internships, I love transforming raw data into meaningful, actionable insights that drive smarter decisions.
+
+🔍 **What I Do:**
+
+- Build insightful dashboards and reports that tell compelling stories.
+- Analyze large datasets to uncover patterns and trends.
+- Clean, model, and visualize data using tools like Power BI, Tableau, and Excel.
+- Write complex SQL queries and leverage Python for deeper analysis.
+
 
 
 
