@@ -1,18 +1,20 @@
 <h1 align="center" style="font-size: 4em; font-weight: bold;">Akmal S</h1>
 <h3 align="center">Data Analyst | SQL, Python, Power BI, Excel, Tableau | Turning raw data into value</h3>
-
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="margin-left: -90px;" />
-
-<div style="display: flex; justify-content: flex-start; align-items: center;">
-  <div style="flex: 1; padding-right: 10px;">
-    <ul style="list-style: none; padding-left: 40px; font-size: 1.8em; font-weight: bold;">
+  <div style="flex-shrink: 0; margin-left: -30px;">
+    <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
+  </div>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; padding-right: 20px;">
+    <ul style="list-style: none; padding-left: 0; font-size: 2.8em; font-weight: bold;">
       <li>🌱 I’m currently learning <span style="color: #007acc;">Matplotlib</span></li>
       <li>💬 Ask me about Power BI, SQL, Python</li>
       <li>📫 How to reach me: Akmal.s.analytics@gmail.com</li>
       <li>⚡ Fun fact: I adapt to new skills easily.</li>
     </ul>
   </div>
-</div>
+
+
 
 
 
