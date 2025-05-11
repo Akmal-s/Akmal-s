@@ -1,9 +1,12 @@
 <h1 align="center" style="font-size: 4em; font-weight: bold;">Akmal S</h1>
 <h3 align="center">Data Analyst | SQL, Python, Power BI, Excel, Tableau | Turning raw data into value</h3>
-  <div style="flex-shrink: 0; margin-left: -30px;">
+  <div style="flex-shrink: 0; margin-left: -50px;">
     <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
   </div>
 </div>
+-
+-
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 1; padding-right: 20px;">
     <ul style="list-style: none; padding-left: 0; font-size: 2.8em; font-weight: bold;">
